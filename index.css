@@ -1,0 +1,25 @@
+div.parent{
+    font-size: 2rem;
+    background-color: aqua;
+    padding:10px;
+    height: 150vh;
+}
+.child1{
+    position: sticky;
+    z-index: 99;
+    top: 0;
+    background-color:magenta;
+    padding: 5px;
+}
+.child2{
+    position:relative;
+    left:10px;
+    background-color:red;
+    padding: 5px;
+}
+.child3{
+    position:absolute;
+    bottom:10px;
+    background-color:yellow;
+    padding: 5px;
+}
