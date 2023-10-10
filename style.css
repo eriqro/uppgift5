@@ -2,7 +2,7 @@ div.parent{
     font-size: 2rem;
     background-color: aqua;
     padding:10px;
-    height: 150vh;
+    height: 100vh;
 }
 .child1{
     position: sticky;
